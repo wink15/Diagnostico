@@ -1,0 +1,28 @@
+.container {
+    display: flex;
+    justify-content: center;
+    background-color: gray;
+    border-radius: 25px;
+ 
+    border: solid  5px brown;
+    padding: 20px;
+    width: 500px;
+    height: 230px;
+    background-image: url("images.jpg");
+    background-repeat: no-repeat;
+    /* background-size: contain; */
+    background-size: 40% 100%;
+    
+  }
+ 
+
+  .text {
+    width: 50%;
+   margin-left: 30%;
+   padding-left: 25px;
+
+  }
+
+  .text h3{
+    color: brown;
+  }
